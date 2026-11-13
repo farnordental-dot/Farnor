@@ -3,3 +3,4 @@ Disallow: /dashboard.html
 Disallow: /patient-demo.html
 Disallow: /booking-demo.html
 Disallow: /doctors-demo.html
+Sitemap: https://charming-marshmallow-442b18.netlify.app/sitemap.xml

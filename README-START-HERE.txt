@@ -1,11 +1,1 @@
-FARNOR Dental Park — نسخه ۴ آزمایشی
-
-این ZIP شامل همه صفحات سایت و فایل‌های مشترک است. محتویات ZIP را استخراج کنید و همه فایل‌ها را در ریشه مخزن GitHub (شاخه main) آپلود و جایگزین کنید. پوشه دیگری نسازید.
-
-صفحات: index.html, services.html, consultation.html, dentists.html, branches.html, about.html, blog.html, faq.html, privacy.html, dashboard.html, booking-demo.html, doctors-demo.html, patient-demo.html
-
-مهم: فرم‌ها و پنل‌ها فقط نمایشی‌اند. هیچ داده‌ای به سرور ارسال یا ذخیره نمی‌شود. از داده واقعی بیماران استفاده نکنید.
-
-پیش از راه‌اندازی عملیاتی: لوگوی اصلی، نشانی، تلفن، ساعات کاری، پزشکان تأییدشده، اینستاگرام، سیستم نوبت‌دهی امن و سیاست حریم خصوصی واقعی لازم است.
-
-فایل‌های این بسته عمداً همگی در ریشه قرار دارند تا مشکل قبلی مسیر /assets/ تکرار نشود.
+FARNOR V5 - complete static website. Upload the CONTENTS of this zip to the ROOT of the GitHub repo (main), replacing same-name files. Do not upload only the zip. Original brand logo photo included. All booking/management/patient forms remain DEMOS and must not receive real patient information. Real contact details and medical claims need management/doctor approval.
