@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /dashboard.html
+Disallow: /patient-demo.html
+Disallow: /booking-demo.html
+Disallow: /doctors-demo.html
